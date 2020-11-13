@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ae1b12e4-bc76-4d70-8552-be1e694c13bb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../php-cleancode-refactoring-renaming" beforeDir="false" afterPath="$PROJECT_DIR$/../php-cleancode-refactoring-renaming" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/composer" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/phpunit/php-code-coverage" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1kDcPcaeFzmmlKw8qoMmG0fXH9c" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae1b12e4-bc76-4d70-8552-be1e694c13bb" name="Default Changelist" comment="" />
+      <created>1605238579431</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605238579431</updated>
+      <workItem from="1605238580504" duration="250000" />
+      <workItem from="1605238985202" duration="382000" />
+      <workItem from="1605249422584" duration="1535000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="779" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1605250955280">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="779" y="311" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1605250955280" />
+  </component>
+</project>
